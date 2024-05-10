@@ -1,0 +1,128 @@
+
+Apr 03, 2024 09:21:35.15 NEW SESSION
+Apr 03, 2024 09:21:35.19 [7452:12748:0403/092135.121:ERROR:soda_component_installer.cc(97)] On demand update of the SODA component failed with error: 5
+Apr 03, 2024 09:21:35.19 [7452:12748:0403/092135.121:ERROR:soda_language_pack_component_installer.cc(88)] On demand update of the SODA language component failed with error: 5
+Apr 03, 2024 09:21:40.73 [7452:1960:0403/092140.735:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 09:22:09.29 [7452:1960:0403/092209.298:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 09:50:54.42 [12004:8888:0403/095054.320:ERROR:soda_language_pack_component_installer.cc(88)] On demand update of the SODA language component failed with error: 5
+Apr 03, 2024 09:50:54.46 [12004:8888:0403/095054.320:ERROR:soda_component_installer.cc(97)] On demand update of the SODA component failed with error: 5
+Apr 03, 2024 09:50:58.73 [12004:13824:0403/095058.736:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 09:51:26.05 [12004:13824:0403/095126.058:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 09:52:24.56 [12004:13824:0403/095224.569:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 09:54:05.38 [12004:13824:0403/095405.381:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 09:57:07.35 [12004:13824:0403/095707.349:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 10:04:31.47 [12004:13824:0403/100431.473:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 10:14:31.48 [12004:13824:0403/101431.485:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 19:48:50.31 [12004:13824:0403/194850.285:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Apr 03, 2024 22:25:47.31 NEW SESSION
+Apr 03, 2024 22:25:47.34 [8520:6760:0403/222547.310:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:26:10.87 [8520:6760:0403/222610.878:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:27:03.78 [8520:6760:0403/222703.788:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:28:56.30 [8520:6760:0403/222856.304:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:34:57.53 [2312:1012:0403/223457.536:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:35:20.93 [2312:1012:0403/223520.936:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:36:16.09 [2312:1012:0403/223616.052:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:38:03.58 [2312:1012:0403/223803.579:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:41:22.16 [2312:1012:0403/224122.160:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:47:41.27 [2312:1012:0403/224741.277:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 22:57:41.29 [2312:1012:0403/225741.294:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 23:07:41.34 [2312:1012:0403/230741.306:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 03, 2024 23:09:37.45 [2312:1012:0403/230937.450:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Apr 04, 2024 10:06:41.60 NEW SESSION
+Apr 04, 2024 10:06:41.68 [4812:10540:0404/100641.582:ERROR:soda_language_pack_component_installer.cc(88)] On demand update of the SODA language component failed with error: 5
+Apr 04, 2024 10:06:41.69 [4812:10540:0404/100641.582:ERROR:soda_component_installer.cc(97)] On demand update of the SODA component failed with error: 5
+Apr 04, 2024 10:06:45.47 [4812:13364:0404/100645.474:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 10:07:07.20 [4812:13364:0404/100707.201:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 10:07:18.43 [4812:13364:0404/100718.438:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 10:08:26.95 [4812:13364:0404/100826.954:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 10:08:32.97 [4812:13364:0404/100832.969:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 10:08:50.01 [4812:13364:0404/100850.015:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 10:10:03.99 [4812:13364:0404/101003.997:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 10:10:15.89 [4812:13364:0404/101015.890:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 10:22:06.76 [4812:13364:0404/102206.763:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2024 13:05:47.57 [4812:13364:0404/130547.569:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2024 13:05:47.94 [4812:13364:0404/130547.948:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 13:05:57.39 [4812:6824:0404/130551.565:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 04, 2024 13:05:57.39 [4812:13364:0404/130552.025:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 13:05:58.85 [4812:13364:0404/130558.857:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 13:06:25.19 ERROR: Client requested cancel during Invoke()
+Apr 04, 2024 13:06:29.38 ERROR: Client requested cancel during Invoke()
+Apr 04, 2024 13:30:09.73 [4812:10540:0404/133009.722:ERROR:device_event_log_impl.cc(195)] [13:30:09.721] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2024 13:41:21.10 [4812:13364:0404/134121.094:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 13:41:23.95 [4812:13364:0404/134123.950:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 13:41:24.90 [4812:10540:0404/134124.906:ERROR:device_event_log_impl.cc(195)] [13:41:24.906] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2024 13:43:49.52 [4812:13364:0404/134349.516:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2024 13:45:06.14 [4812:13364:0404/134506.133:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2024 14:00:32.27 [4812:13364:0404/140032.247:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 14:00:34.22 [4812:13364:0404/140034.224:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 14:01:27.20 [4812:13364:0404/140127.190:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 14:03:08.16 [4812:13364:0404/140308.166:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 14:05:50.02 [4812:13364:0404/140550.024:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 14:12:45.75 [4812:13364:0404/141245.752:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 16:37:54.45 [4812:13364:0404/163754.453:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Apr 04, 2024 19:28:28.12 NEW SESSION
+Apr 04, 2024 19:28:28.29 [3624:2456:0404/192828.063:ERROR:soda_language_pack_component_installer.cc(88)] On demand update of the SODA language component failed with error: 5
+Apr 04, 2024 19:28:28.35 [3624:2456:0404/192828.064:ERROR:soda_component_installer.cc(97)] On demand update of the SODA component failed with error: 5
+Apr 04, 2024 19:28:33.15 [3624:6196:0404/192833.150:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 19:29:02.57 [3624:6196:0404/192902.573:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 19:29:44.36 [3624:6196:0404/192944.366:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 19:31:35.13 [3624:6196:0404/193135.133:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 19:35:15.37 [3624:6196:0404/193515.377:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 19:41:49.25 [3624:6196:0404/194149.252:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 19:48:05.92 [3624:6196:0404/194805.925:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 19:48:23.09 [3624:6196:0404/194823.099:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 19:48:29.77 [3624:2456:0404/194829.775:ERROR:device_event_log_impl.cc(195)] [19:48:29.774] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2024 19:58:37.54 [3624:6196:0404/195837.478:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2024 20:32:33.39 [3624:6196:0404/203233.394:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 20:32:35.32 [3624:2456:0404/203235.321:ERROR:device_event_log_impl.cc(195)] [20:32:35.318] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 04, 2024 20:32:36.70 [3624:6196:0404/203236.696:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 20:32:42.90 [3624:6196:0404/203242.907:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 04, 2024 20:33:02.61 [3624:6196:0404/203302.612:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 04, 2024 20:33:05.02 [3624:6196:0404/203305.028:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 04, 2024 20:33:05.69 [3624:2456:0404/203305.694:ERROR:account_info_fetcher.cc(86)] OnNetworkError -1
+Apr 04, 2024 20:33:06.36 [3624:2456:0404/203306.362:ERROR:device_event_log_impl.cc(195)] [20:33:06.361] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Apr 05, 2024 05:34:14.12 NEW SESSION
+Apr 05, 2024 05:34:14.16 [2768:3180:0405/053414.125:ERROR:soda_component_installer.cc(97)] On demand update of the SODA component failed with error: 5
+Apr 05, 2024 05:34:14.18 [2768:3180:0405/053414.125:ERROR:soda_language_pack_component_installer.cc(88)] On demand update of the SODA language component failed with error: 5
+Apr 05, 2024 05:34:19.72 [2768:1704:0405/053419.721:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 05:34:48.21 [2768:1704:0405/053448.209:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 05:35:45.45 [2768:1704:0405/053545.454:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 05:37:19.79 [2768:1704:0405/053719.796:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 05:40:39.28 [2768:1704:0405/054039.282:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 05:46:09.10 [2768:1704:0405/054609.109:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 05:56:09.15 [2768:1704:0405/055609.114:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 06:01:35.92 [2768:1704:0405/060135.925:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2024 06:11:35.73 [2768:1704:0405/061135.728:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 05, 2024 09:00:26.98 [2768:1704:0405/090026.986:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 05, 2024 09:00:27.41 [2768:1704:0405/090027.419:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2024 09:00:30.26 [2768:1704:0405/090030.269:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 09:00:30.28 [2768:9512:0405/090030.283:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 05, 2024 09:01:15.87 [2768:1704:0405/090115.836:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 09:01:45.29 [2768:10492:0405/090145.296:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 05, 2024 09:02:36.86 [2768:1704:0405/090236.861:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 09:03:37.85 [2768:10492:0405/090337.816:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 05, 2024 09:06:06.52 [2768:1704:0405/090606.522:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 09:06:26.57 [2768:10492:0405/090626.577:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 05, 2024 09:10:39.75 [2768:10492:0405/091039.719:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+Apr 05, 2024 09:11:26.44 [2768:1704:0405/091126.443:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2024 09:11:41.55 [2768:7888:0405/091141.554:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Apr 05, 2024 09:11:43.55 [2768:1704:0405/091143.554:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2024 09:11:53.73 [2768:7888:0405/091153.691:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Apr 05, 2024 09:12:22.01 [2768:1704:0405/091222.014:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2024 09:12:39.69 [2768:1704:0405/091239.656:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2024 09:24:59.73 [2768:10492:0405/092459.729:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Apr 05, 2024 09:38:47.97 [2768:1704:0405/093847.947:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Apr 05, 2024 10:01:38.15 [2768:1704:0405/100138.136:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2024 10:01:40.43 [2768:1704:0405/100140.437:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 10:01:41.43 [2768:3180:0405/100141.431:ERROR:device_event_log_impl.cc(195)] [10:01:41.430] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Apr 05, 2024 10:02:22.28 [2768:1704:0405/100222.287:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 10:15:04.23 [2768:1704:0405/101504.220:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 10:16:52.84 [2768:1704:0405/101652.843:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 10:17:52.80 [2768:1704:0405/101752.804:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 10:19:35.29 [2768:1704:0405/101935.257:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 10:22:41.69 [2768:1704:0405/102241.697:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Apr 05, 2024 10:30:01.13 [2768:1704:0405/103001.135:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106

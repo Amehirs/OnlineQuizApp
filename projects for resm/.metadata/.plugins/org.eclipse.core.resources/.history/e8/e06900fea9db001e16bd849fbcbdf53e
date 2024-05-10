@@ -1,0 +1,5 @@
+package sudoko.problemDomain;
+
+public class SudukoGame {
+
+}
